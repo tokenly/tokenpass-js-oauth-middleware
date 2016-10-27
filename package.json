@@ -1,0 +1,41 @@
+{
+  "name": "tokenpass-express",
+  "version": "1.0.0",
+  "description": "Tokenpass OAuth Middleware for Express",
+  "keywords": [
+    "oauth",
+    "oauth2",
+    "authentication",
+    "middleware",
+    "express"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tokenly/tokenpass-js-oauth-middleware",
+  "author": {
+    "name": "Ratinder",
+    "email": "ratinder6785@gmail.com",
+    "url": "https://github.com/tokenly"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tokenly/tokenpass-js-oauth-middleware"
+  },
+  "dependencies": {
+    "grant": "3.6.5"
+  },
+  "peerDependencies": {
+    "express": ">=3.x.x"
+  },
+  "main": "index.js",
+  "gitHead": "510f70d22413518e30a6acb49ca99ade69a047e0",
+  "bugs": {
+    "url": "https://github.com/tokenly/tokenpass-js-oauth-middleware/issues"
+  },
+  "_id": "tokenpass-express@1.0.0",
+  "maintainers": [
+    {
+      "name": "ratinder",
+      "email": "ratinder6785@gmail.com"
+    }
+  ]
+}

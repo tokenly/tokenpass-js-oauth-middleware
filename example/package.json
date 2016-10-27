@@ -1,0 +1,21 @@
+{
+  "name": "tokenpass-express-example",
+  "version": "0.0.0",
+  "description": "Express Example",
+  "private": true,
+  "keywords": [],
+  "license": "MIT",
+  "homepage": "https://github.com/simov/grant",
+  "author": "Simeon Velichkov <simeonvelichkov@gmail.com> (http://simov.github.io)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/simov/grant.git"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-session": "1.5.1",
+    "morgan": "1.1.1",
+    "tokenpass-express": "file:../../tokenpass-express"
+  },
+  "main": "app.js"
+}
