@@ -13,7 +13,9 @@
     "redirect_uri": "http://localhost:3000/connect/tokenpass/callback",
     "scope": [
       "user",
-      "tca"
+      "tca",
+      "manage-address",
+      "private-address"
     ]
   }
 }
